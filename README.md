@@ -27,4 +27,5 @@
 【OS】mac  
 【DB】mysql  
 
+# DB設計
 ![messageImage_1591206040809](https://user-images.githubusercontent.com/59050248/83669659-e16c2200-a60c-11ea-814c-23d6048223b1.jpg)
