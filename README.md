@@ -29,3 +29,5 @@
 
 # DB設計
 ![messageImage_1591206040809](https://user-images.githubusercontent.com/59050248/83669659-e16c2200-a60c-11ea-814c-23d6048223b1.jpg)
+![スクリーンショット 2020-06-04 2 59 14](https://user-images.githubusercontent.com/59050248/83671624-f4ccbc80-a60f-11ea-95b6-87c4c02167c6.jpg)
+![スクリーンショット 2020-06-04 3 00 12](https://user-images.githubusercontent.com/59050248/83671650-00b87e80-a610-11ea-81f9-3e9ab21dc167.jpg)
