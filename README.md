@@ -11,7 +11,7 @@
  ・マッチングした人とのチャット機能  
 
 # アプリケーション内で使用している技術
-【言語】PHP 7.4.5, Laravel6
-【ツール】Visual Studio Code
+【言語】PHP 7.4.5, Laravel6  
+【ツール】Visual Studio Code  
 【OS】mac  
-【DB】mysql
+【DB】mysql  
